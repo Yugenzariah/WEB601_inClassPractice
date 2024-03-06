@@ -1,0 +1,23 @@
+{
+  "name": "web601_inclasspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yugenzariah/WEB601_inClassPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yugenzariah/WEB601_inClassPractice/issues"
+  },
+  "homepage": "https://github.com/Yugenzariah/WEB601_inClassPractice#readme",
+  "dependencies": {
+    "node": "^21.6.2"
+  }
+}
