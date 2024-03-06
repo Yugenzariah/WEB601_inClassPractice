@@ -15,7 +15,7 @@ function uploadButton() {
 
     // Configure: GET-request for the URL.
 
-    xhr('GET','https://jsonplaceholder.typicode.com/todos/1',true)
+    xhr.open('GET', 'https://jsonplaceholder.typicode.com/todos/1', true)
 
     //Setup a function that is called when the request is completed.
     xhr.onload = function() {
